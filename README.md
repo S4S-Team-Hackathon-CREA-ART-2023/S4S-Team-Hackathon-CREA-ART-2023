@@ -4,7 +4,7 @@ Seja bem-vindo(a) ao readme da nossa empresa especializada no desenvolvimento de
 
 ## Sobre nós
 
-Nossa empresa foi fundada em 2021 como um braço de desenvolvimento  por Pedro Pontes, Wagner Pitombeira, Cedric Soares, William Sousa, e desde então temos trabalhado duro para criar softwares de alta qualidade para empresas de todos os setores. Nossa equipe é formada por 21 funcionários altamente capacitados, incluindo desenvolvedores, designers, gerentes de projeto e especialistas em qualidade.
+Nossa empresa foi fundada em 2021 como um braço de desenvolvimento  por Pedro Pontes, Wagner Pitombeira, Cedric Soares, William Sousa e Diego Saulo que desde então vem trabalhando duro para criar softwares de alta qualidade para empresas de todos os setores. Nossa equipe é formada por 21 funcionários altamente capacitados, incluindo desenvolvedores, designers, gerentes de projeto e especialistas em qualidade.
 
 ## Nossos serviços
 
