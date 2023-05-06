@@ -32,3 +32,6 @@ Na nossa empresa, acreditamos que a colaboração é a chave para o sucesso. Nó
 ## Como nos contatar
 
 Se você está interessado em saber mais sobre nossos serviços de desenvolvimento de software ou gostaria de solicitar uma cotação, entre em contato conosco através do nosso contato profissional +55 85 99954-7116 ou no email profissional contato@s4s.tech.  
+
+![image](https://user-images.githubusercontent.com/132763489/236632818-d02def4d-5081-4cde-8e71-a40370b7cfb4.png)
+
